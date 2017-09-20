@@ -14,9 +14,3 @@ function deleteFromObjectByKey(object, key) {
   delete newObj[key];
   return newObj;
 }
-
-
-function deleteFromObjectByKey(object, key) {
-  return newObj
-}
-deleteFromObjectByKey(recipes, 'oat')
